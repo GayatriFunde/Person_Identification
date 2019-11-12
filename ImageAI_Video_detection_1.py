@@ -61,3 +61,5 @@ video_detector.loadModel()
 plt.show()
 
 video_detector.detectObjectsFromVideo(input_file_path="Video_Pedestrian.mp4", output_file_path="Video_Pedestrian_Detection",  frames_per_second=20, per_frame_function=forFrame,  minimum_percentage_probability=30, return_detected_frame=True)
+
+################End of the Program
