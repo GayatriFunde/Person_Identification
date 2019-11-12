@@ -51,7 +51,7 @@ def forFrame(frame_number, output_array, output_count, returned_frame):
 
     plt.pause(0.01)
 
-
+########## Need to feed some video as input
 
 video_detector = VideoObjectDetection()
 video_detector.setModelTypeAsRetinaNet()
