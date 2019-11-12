@@ -8,7 +8,7 @@ Created on Thu Sep 19 13:55:19 2019
 from imageai.Detection import VideoObjectDetection
 import os
 from matplotlib import pyplot as plt
-
+############ Not Runned
 
 os.chdir('F:\Internship_CV\ImageAI_Model')
 
